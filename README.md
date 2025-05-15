@@ -1,6 +1,6 @@
-# Enhanced Snake Game 🐍
+# Snake Game 🐍
 
-![Snake Game Screenshot](snake_screenshot.png) *(Replace with actual screenshot if available)*
+![Snake Game Screenshot](snake_screenshot.png) 
 
 A modern twist on the classic Snake game featuring:
 - Progressive difficulty levels
